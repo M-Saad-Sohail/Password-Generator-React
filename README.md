@@ -1,3 +1,6 @@
+HOSTED LINK
+https://m-saad-sohail.github.io/Password-Generator-React/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
